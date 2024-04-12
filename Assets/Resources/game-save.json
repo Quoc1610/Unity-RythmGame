@@ -1,0 +1,76 @@
+{
+  "isFirstOpen": false,
+  "OptionUpScroll": false,
+  "VibreateOn": true,
+  "ShowRating": true,
+  "ShowRatingNewHot": true,
+  "CountDownLuckyDraw": 63848262420.052551,
+  "CurrentDayLogin": 0,
+  "CurrentDayOfWeekLogin": 100,
+  "SongProperties": [],
+  "Coin": 0,
+  "FirstVersion": "1.0",
+  "CurrentIndexBoy": 0,
+  "CurrentIndexGirl": 0,
+  "GirlSkinBoughts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "BoySkinBoughts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "ModeSaves": [
+    {
+      "WeekSaves": [
+        {
+          "SongSaves": [
+            {
+              "IndexSong": 0,
+              "IsBought": true,
+              "Score": 0
+            }
+          ]
+        },
+        {
+          "SongSaves": [
+            {
+              "IndexSong": 0,
+              "IsBought": true,
+              "Score": 0
+            },
+            {
+              "IndexSong": 1,
+              "IsBought": true,
+              "Score": 0
+            },
+            {
+              "IndexSong": 2,
+              "IsBought": true,
+              "Score": 0
+            }
+          ]
+        }
+      ],
+      "IsDownloadAssetBundle": true
+    }
+  ],
+  "CurrentDay": 100,
+  "HotNewSongs": []
+}

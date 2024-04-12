@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957466976481",
+    "project_id": "rhythmgame-86233",
+    "storage_bucket": "rhythmgame-86233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957466976481:android:f190fe0677c255dc6117a0",
+        "android_client_info": {
+          "package_name": "com.fnf.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957466976481-toebqb2irivqk31d0c69hue9ocaqvh6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmS6kXWG4Q0kuJeEX_T_zRWeKbexeyoGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957466976481-toebqb2irivqk31d0c69hue9ocaqvh6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
